@@ -11,5 +11,6 @@
 
 <param ve-image label="Gauchos drinking mate" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
 <param ve-entity eid="Q155" title="Brazil">
+<param ve-entity eid="Q733" title="Paraguay">
 <param ve-entity eid="Q46429" title=“Guarani people”>
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
